@@ -1,0 +1,10 @@
+#title {
+    color: red;
+}
+.subtitle,.post_title {
+ color: darkred;
+}
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+}
