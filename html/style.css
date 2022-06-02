@@ -1,6 +1,6 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-background: burlywood;
+background-image: url(./marmore.jpeg);
 max-width: 900px;
 margin: auto;
 }
@@ -12,6 +12,7 @@ margin: auto;
     font-size: 02cm;
     text-transform: uppercase;
     color: red;
+    text-align: left;
 }
 .subtitle{
     text-decoration: underline;
@@ -36,7 +37,7 @@ margin: auto;
 .post_content {
     margin: 0%;
     margin-bottom: 15px;
-    text-align: center;
+    text-align: justify;
 }
 .post_image {
     margin-bottom: 15px;
